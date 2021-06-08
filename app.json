@@ -1,16 +1,16 @@
 {
-    "name": "Auto Filter Bot",
+    "name": "seriesland Filter Bot",
     "description": "Kind of a filter bot where you don't have to add filters manually.",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "logo": "https://telegra.ph/file/b3effd70e7ef0b49ea632.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Telegram Bot",
-        "TroJanzHEX"
+        "@rihu_mone"
     ],
-    "website": "https://TroJanzHEX.me",
+    "website": "https://t.me/Seriesland4U_Netflix_HBO",
     "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "success_url": "https://t.me/Seriesland4U_Netflix_HBO",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
